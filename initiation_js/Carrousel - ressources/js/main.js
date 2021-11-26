@@ -107,5 +107,3 @@ document.querySelector("#slider-previous").addEventListener("click", previous);
 document.querySelector("#slider-random").addEventListener("click", random);
 
 document.querySelector("#slider-toggle").addEventListener("click", diapo);
-
-let test = 0;
